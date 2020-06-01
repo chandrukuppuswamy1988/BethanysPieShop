@@ -1,0 +1,66 @@
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.0\libman.json
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.0\BethanysPieShop.exe
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.0\BethanysPieShop.deps.json
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.0\BethanysPieShop.runtimeconfig.json
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.0\BethanysPieShop.runtimeconfig.dev.json
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.0\BethanysPieShop.dll
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.0\BethanysPieShop.pdb
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.0\BethanysPieShop.Views.dll
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.0\BethanysPieShop.Views.pdb
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.csprojAssemblyReference.cache
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\staticwebassets\BethanysPieShop.StaticWebAssets.Manifest.cache
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\staticwebassets\BethanysPieShop.StaticWebAssets.xml
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.RazorAssemblyInfo.cache
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.RazorAssemblyInfo.cs
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.AssemblyInfoInputs.cache
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.AssemblyInfo.cs
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.TagHelpers.input.cache
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.TagHelpers.output.cache
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.RazorCoreGenerate.cache
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\Razor\Views\Pie\List.cshtml.g.cs
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.RazorTargetAssemblyInfo.cache
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.RazorTargetAssemblyInfo.cs
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.Views.pdb
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.dll
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.pdb
+C:\Users\chand\Downloads\building-aspdotnet-core-mvc-web-applications\04\demos\ASP.NET Core 3.0\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.csproj.CopyComplete
+D:\Repositories\BenthanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Repositories\BenthanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Repositories\BenthanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.0\libman.json
+D:\Repositories\BenthanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Repositories\BenthanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.0\BethanysPieShop.exe
+D:\Repositories\BenthanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.0\BethanysPieShop.deps.json
+D:\Repositories\BenthanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.0\BethanysPieShop.runtimeconfig.json
+D:\Repositories\BenthanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.0\BethanysPieShop.runtimeconfig.dev.json
+D:\Repositories\BenthanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.0\BethanysPieShop.dll
+D:\Repositories\BenthanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.0\BethanysPieShop.pdb
+D:\Repositories\BenthanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.0\BethanysPieShop.Views.dll
+D:\Repositories\BenthanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.0\BethanysPieShop.Views.pdb
+D:\Repositories\BenthanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.csprojAssemblyReference.cache
+D:\Repositories\BenthanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\staticwebassets\BethanysPieShop.StaticWebAssets.Manifest.cache
+D:\Repositories\BenthanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\staticwebassets\BethanysPieShop.StaticWebAssets.xml
+D:\Repositories\BenthanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.MvcApplicationPartsAssemblyInfo.cache
+D:\Repositories\BenthanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.RazorAssemblyInfo.cache
+D:\Repositories\BenthanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.RazorAssemblyInfo.cs
+D:\Repositories\BenthanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.AssemblyInfoInputs.cache
+D:\Repositories\BenthanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.AssemblyInfo.cs
+D:\Repositories\BenthanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.TagHelpers.input.cache
+D:\Repositories\BenthanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.TagHelpers.output.cache
+D:\Repositories\BenthanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.RazorCoreGenerate.cache
+D:\Repositories\BenthanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\Razor\Views\Pie\List.cshtml.g.cs
+D:\Repositories\BenthanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Repositories\BenthanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Repositories\BenthanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Repositories\BenthanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.RazorTargetAssemblyInfo.cache
+D:\Repositories\BenthanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.RazorTargetAssemblyInfo.cs
+D:\Repositories\BenthanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.Views.pdb
+D:\Repositories\BenthanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.dll
+D:\Repositories\BenthanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.pdb
+D:\Repositories\BenthanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.csproj.CopyComplete
