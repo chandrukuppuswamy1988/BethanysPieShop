@@ -27,6 +27,11 @@ namespace BethanysPieShop
             services.AddDbContext<AppDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));                
             services.AddControllersWithViews();//services.AddMvc(); would also work still
 
+            services.AddScoped<ShoppingCart>(sp => ShoppingCart.GetCart(sp));
+
+            services.AddHttpContextAccessor();
+            services.AddSession();
+
             services.AddScoped<ICategoryRepository, CategoryRepository>();
             services.AddScoped<IPieRepository, PieRepository>();
         }
@@ -40,7 +45,9 @@ namespace BethanysPieShop
             }
 
             app.UseHttpsRedirection();
-            app.UseStaticFiles(); 
+            app.UseStaticFiles();
+
+            app.UseSession();//add before routing middleware
 
             app.UseRouting();
 
